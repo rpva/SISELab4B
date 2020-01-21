@@ -6,7 +6,8 @@ public class Main {
 
     public static void main(String[] args) {
         System.out.println("Calculator web service is starting.");
-        // initalize the instance of the remote object
-        // publish the object
+        // initialize the object calculator
+        Endpoint.publish("http://localhost:8090/calcservice",calc);
+
     }
 }
