@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="846362e7-e1d6-43e9-b58d-2913eb2c84c2" name="Default Changelist" comment="Adds a solution with the">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cs/calc/server/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cs/calc/server/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="ec3c0a73-c331-4c3a-96f8-f640f44fab2c" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -124,5 +126,9 @@
       <screen x="0" y="0" width="1280" height="760" />
     </state>
     <state width="1220" height="187" key="GridCell.Tab.0.right/0.0.1280.760@0.0.1280.760" timestamp="1579645527735" />
+    <state x="625" y="153" key="git4idea.branch.GitSmartOperationDialog" timestamp="1580726404943">
+      <screen x="0" y="0" width="1920" height="1019" />
+    </state>
+    <state x="625" y="153" key="git4idea.branch.GitSmartOperationDialog/0.0.1920.1019@0.0.1920.1019" timestamp="1580726404943" />
   </component>
 </project>

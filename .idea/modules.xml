@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/SISELab4B.iml" filepath="$PROJECT_DIR$/SISELab4B.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../../MÃ³dulos/CS/Topic4/SISELab4B/.idea/modules/SISELab4B.main.iml" filepath="$PROJECT_DIR$/../../../../MÃ³dulos/CS/Topic4/SISELab4B/.idea/modules/SISELab4B.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../../MÃ³dulos/CS/Topic4/SISELab4B/.idea/modules/SISELab4B.test.iml" filepath="$PROJECT_DIR$/../../../../MÃ³dulos/CS/Topic4/SISELab4B/.idea/modules/SISELab4B.test.iml" />
     </modules>
   </component>
 </project>
